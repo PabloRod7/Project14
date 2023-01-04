@@ -1,4 +1,4 @@
-# Project14-Whack-a-peguin
+# Whack a peguin Hacking with Swift
 Game using SKCropNode and a sprinkling of Grand Central Dispatch.
 
 
